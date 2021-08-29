@@ -9,7 +9,11 @@ Creating a web page with dynamic tables for a more in depth analysis of UFO's si
 
 
 ## Results: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+A
 
 
 
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+
+When entering the date, make the html interpret both writing 01 or 1 as a single value.
+
