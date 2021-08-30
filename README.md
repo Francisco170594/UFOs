@@ -16,4 +16,7 @@ A
 ## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
 When entering the date, make the html interpret both writing 01 or 1 as a single value.
+Case sensitive: Add a pop up message when caps lock is on.
+Add a year filter
+
 
